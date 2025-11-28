@@ -16,10 +16,10 @@ setup(
     description="CLI tool to scan for Shai-Hulud npm worm infections, affected packages and with automated remediation",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Amruth-SV/shai-hulud-scanner",
+    url="https://github.com/hhtinh/shai-hulud-scanner",
     project_urls={
-        "Bug Reports": "https://github.com/Amruth-SV/shai-hulud-scanner/issues",
-        "Source": "https://github.com/Amruth-SV/shai-hulud-scanner",
+        "Bug Reports": "https://github.com/hhtinh/shai-hulud-scanner/issues",
+        "Source": "https://github.com/hhtinh/shai-hulud-scanner",
     },
     classifiers=[
         "Development Status :: 4 - Beta",

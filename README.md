@@ -33,7 +33,7 @@ Sources:
 
 ### Local Development
 ```bash
-git clone https://github.com/Amruth-SV/shai-hulud-scanner.git
+git clone https://github.com/thinkingerrol/shai-hulud-scanner.git
 cd shai-hulud-scanner
 pip install -r requirements.txt
 pip install -e .
@@ -119,7 +119,7 @@ When issues are detected:
 
 ### Development Setup
 ```bash
-git clone https://github.com/Amruth-SV/shai-hulud-scanner.git
+git clone https://github.com/thinkingerrol/shai-hulud-scanner.git
 cd shai-hulud-scanner
 pip install -r requirements.txt
 pip install -e .
@@ -133,8 +133,8 @@ Researchers, please help update the affected-packages.json with new compromised 
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/Amruth-SV/shai-hulud-scanner/issues)
-- **Documentation**: [Wiki](https://github.com/Amruth-SV/shai-hulud-scanner/wiki)
+- **Issues**: [GitHub Issues](https://github.com/thinkingerrol/shai-hulud-scanner/issues)
+- **Documentation**: [Wiki](https://github.com/thinkingerrol/shai-hulud-scanner/wiki)
 - **Updates**: Follow releases for latest threat intelligence
 
 ## Author
