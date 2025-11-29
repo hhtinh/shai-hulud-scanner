@@ -112,7 +112,7 @@ VERSION = "2.0.0"
 
 # Default affected list URL (you can keep this JSON updated with both waves)
 DEFAULT_BADLIST_URL = (
-    "https://raw.githubusercontent.com/Amruth-SV/shai-hulud-scanner/main/"
+    "https://raw.githubusercontent.com/hhtinh/shai-hulud-scanner/2nd_update/"
     "affected-packages.json"
 )
 
