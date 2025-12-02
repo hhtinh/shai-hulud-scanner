@@ -33,7 +33,7 @@ Sources:
 
 ### Local Development
 ```bash
-git clone https://github.com/thinkingerrol/shai-hulud-scanner.git
+git clone -b 2nd_update https://github.com/hhtinh/shai-hulud-scanner.git
 cd shai-hulud-scanner
 pip install -r requirements.txt
 pip install -e .
@@ -119,7 +119,7 @@ When issues are detected:
 
 ### Development Setup
 ```bash
-git clone https://github.com/thinkingerrol/shai-hulud-scanner.git
+git clone -b 2nd_update https://github.com/hhtinh/shai-hulud-scanner.git
 cd shai-hulud-scanner
 pip install -r requirements.txt
 pip install -e .
